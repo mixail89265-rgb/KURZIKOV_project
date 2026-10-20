@@ -1,0 +1,6 @@
+git init - создать репозиторий
+git status - статус файлов
+git add - добавить в staging area
+git commit - сохранить изменения
+git log - история коммитов
+git push - отправить на GitHub
